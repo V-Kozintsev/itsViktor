@@ -47,5 +47,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original-wordmark.svg" title="alpinejs" **alt="alpinejs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" title="alpinejs" **alt="alpinejs" width="40" height="40"/>
 </div>
