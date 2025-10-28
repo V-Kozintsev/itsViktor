@@ -49,3 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original-wordmark.svg" title="alpinejs" **alt="alpinejs" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: Моя статистка :
