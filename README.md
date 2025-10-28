@@ -6,7 +6,7 @@
       <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     
-    <a href="https://vk.com/id17749830">
+    <a href="https://vk.com/max7">
       <img src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
     </a>
     
