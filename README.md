@@ -13,7 +13,6 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=V-Kozintsev&style=flat-square&color=blue" alt=""/>
   </div>
-  
   <div>
     <h1>
       Добро пожаловать! <br> Делаю вебы, люблю React!
