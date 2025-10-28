@@ -5,11 +5,8 @@
     <a href="https://t.me/viktorkozintsev">
       <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://vk.com/max7">
+    <a href="https://vk.com/id17749830">
       <img src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-    </a>
-    <a href="https://vk.com/max7">
-      <img src="https://img.shields.io/badge/max7--profile-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="max7 Badge"/>
     </a>
   </div>
   
@@ -19,7 +16,7 @@
   
   <div>
     <h1>
-      👋 Добро пожаловать! <br> Делаю вебы, люблю React <br> Пиши, если проект зовет!
+      Добро пожаловать! <br> Делаю вебы, люблю React!
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
   </div>
