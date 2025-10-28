@@ -5,11 +5,11 @@
     <a href="https://t.me/viktorkozintsev">
       <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://vk.com/max7">
+    <a href="https://vk.com/id17749830>
       <img src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
     </a>
-    <a href="https://vk.com/max7">
-      <img src="https://img.shields.io/badge/max7--profile-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="max7 Badge"/>
+     <a href="ссылка-на-max-мессенджер">
+      <img src="https://img.shields.io/badge/MAX%20Messenger-6A72C2?style=for-the-badge" alt="MAX Messenger Badge"/>
     </a>
   </div>
   
